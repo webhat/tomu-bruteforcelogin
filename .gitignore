@@ -1,0 +1,8 @@
+.*sw*
+bruteforcelogin.bin
+bruteforcelogin.dfu
+bruteforcelogin.elf
+bruteforcelogin.{ihex}
+.obj
+bruteforcelogin.{ihex}
+bruteforcelogin.ihex
